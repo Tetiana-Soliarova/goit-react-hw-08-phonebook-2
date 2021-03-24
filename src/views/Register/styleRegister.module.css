@@ -1,0 +1,58 @@
+  
+.demoForm {
+	width: 800px;
+	margin: auto;
+  background-color: rgb(221, 225, 235);
+  border: none;
+}
+
+.container {
+  padding: 16px;
+}
+
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+.formControl {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: white;
+}
+
+.formControl:focus{
+  background-color: rgb(222, 233, 243);
+  outline: none;
+}
+
+
+
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: rgb(5, 5, 105);
+  color: white;
+font-size:  20px;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+  background-color: rgb(25, 25, 146);
+  color:rgb(166, 182, 130)
+}
+
+.formGroup {
+    margin-left: 15px;
+    margin-right: 45px;
+}
+
